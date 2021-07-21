@@ -10,6 +10,8 @@ A Telegram bot for uploading pastes to https://ezup.dev/p/
 
 ## Run
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Create a new `config.ini` file, copy-paste the following and replace the value
 with your own.
 
